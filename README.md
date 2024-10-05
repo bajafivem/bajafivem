@@ -29,9 +29,7 @@ My goal is to create fun and engaging content that enhances the gameplay experie
 
 📈 GitHub Stats
 
-```yaml
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bajafivem&show_icons=true&theme=radical)
-```
 
 🛠️ Let's Collaborate!
 I'm open to collaborating on interesting projects, whether it's improving existing FiveM servers or building something entirely new from scratch! Feel free to reach out!
