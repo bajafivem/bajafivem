@@ -11,11 +11,11 @@ My goal is to create fun and engaging content that enhances the gameplay experie
 ## 🔧 Skills & Tools
 
 ```yaml
-- **Languages**: 
+- Languages: 
   - Lua (Primary for FiveM scripting)
   - JavaScript / TypeScript
   - HTML / CSS
-- **Tools**:
+- Tools:
   - FiveM (Server Development)
   - Visual Studio Code (Coding)
   - Git & GitHub (Version Control)
@@ -24,7 +24,7 @@ My goal is to create fun and engaging content that enhances the gameplay experie
 ## 🌐 Socials & Contact
 
 ```yaml
-- **Discord :** baja0833
+- Discord : baja0833
 ```
 
 ## 📈 GitHub Stats
